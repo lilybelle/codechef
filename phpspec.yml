@@ -1,0 +1,7 @@
+suites:
+  default_suite:
+    namespace: LilyBelle\Codechef
+    src_path: src
+    spec_path: tests
+    spec_prefix: unit
+    psr4_prefix: LilyBelle\Codechef
