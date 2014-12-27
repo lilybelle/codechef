@@ -1,0 +1,13 @@
+{
+    "name": "lilybelle/codechef",
+    "description": "Lilybelle's solutions to the codechef problems",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lily Belle",
+            "email": "tolilybelle@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
